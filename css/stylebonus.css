@@ -1,0 +1,60 @@
+body{
+    margin: auto;
+  }
+  
+  .barratop {
+      position: relative;
+      background-size: contain;
+      height: 50px;    
+      background-color: rgb(28, 158, 228);      
+      background-image: url(../img/pattern.png)       
+  }
+  
+  #logo {
+      position: absolute;
+      bottom: 0px;
+      height: 30px          
+  }
+  
+  small {
+    color: grey;
+  }
+  
+  ul{
+    padding-inline-start: 16px;
+    
+  }
+  
+  table{
+    height: 200px;
+  }
+  
+    th {
+      text-align: left;
+      color: white;
+      background-color: rgb(28, 158, 228);
+    }
+  
+    td{
+      background-color: lightblue;
+    }
+  
+    #incisoblu {
+      color: blue;
+    }
+  
+    h4{
+      color: grey;
+    }
+  
+    .divfinale{
+      height: 208px;
+      width: 312px;
+      background-image: url(../img/monitor.jpg);
+      color: white;
+    }
+
+    #bonus{
+        width: 1100px;
+        margin: auto;
+      }
