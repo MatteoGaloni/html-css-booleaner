@@ -6,7 +6,7 @@ body{
     position: relative;
     background-size: contain;
     height: 50px;    
-    background-color: rgb(0, 121, 161);      
+    background-color: rgb(28, 158, 228);      
     background-image: url(../img/pattern.png)       
 }
 
@@ -20,17 +20,19 @@ small {
   color: grey;
 }
 
-/* .immagini_affiancate{
-  ;
-} */
+ul{
+  padding-inline-start: 16px;
+  
+}
 
-/* table, th, td {
-  border:1px solid black;
-  text-align: left;
-  } */
+table{
+  height: 200px;
+}
 
   th {
-    background-color: blue;
+    text-align: left;
+    color: white;
+    background-color: rgb(28, 158, 228);
   }
 
   td{
@@ -49,4 +51,5 @@ small {
     height: 208px;
     width: 312px;
     background-image: url(../img/monitor.jpg);
+    color: white;
   }
