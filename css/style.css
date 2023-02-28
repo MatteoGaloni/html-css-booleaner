@@ -4,7 +4,7 @@ body{
 
 .barratop {
     position: relative;
-    background-size: contain;
+    background-size: auto 100px;
     height: 50px;    
     background-color: rgb(79, 161, 255);      
     background-image: url(../img/pattern.png)       
