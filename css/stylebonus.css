@@ -27,6 +27,7 @@ body{
   
   table{
     height: 200px;
+    border-collapse: collapse;
   }
   
     th {
